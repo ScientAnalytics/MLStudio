@@ -6,7 +6,7 @@ asn1crypto==1.5.1
 astroid==2.15.5
 atomicwrites==1.4.1
 attrs==23.1.0
-autopep8==1.4.4
+autopep8==2.0.2
 Babel==2.7.0
 backcall==0.1.0
 binaryornot==0.4.4
