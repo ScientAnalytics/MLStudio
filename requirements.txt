@@ -16,7 +16,7 @@ certifi==2023.5.7
 cffi==1.15.1
 chardet==5.1.0
 Click==8.1.4
-codecov==2.0.15
+codecov==2.1.13
 colorama==0.4.1
 cookiecutter==1.6.0
 coverage==4.5.4
