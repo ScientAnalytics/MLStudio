@@ -19,7 +19,7 @@ Click==8.1.4
 codecov==2.1.13
 colorama==0.4.6
 cookiecutter==2.2.2
-coverage==4.5.4
+coverage==7.2.7
 cryptography==2.7
 cycler==0.10.0
 decorator==4.4.0
