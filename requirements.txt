@@ -20,7 +20,7 @@ codecov==2.1.13
 colorama==0.4.6
 cookiecutter==2.2.3
 coverage==7.2.7
-cryptography==2.7
+cryptography==41.0.2
 cycler==0.10.0
 decorator==4.4.0
 defusedxml==0.6.0
