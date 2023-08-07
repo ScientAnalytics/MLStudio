@@ -125,7 +125,7 @@ tqdm==4.65.0
 traitlets==5.9.0
 twine==4.0.2
 urllib3==2.0.4
-virtualenv==16.7.3
+virtualenv==20.24.2
 watchdog==0.9.0
 wcwidth==0.1.7
 webencodings==0.5.1
