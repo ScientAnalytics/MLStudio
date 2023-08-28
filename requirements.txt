@@ -120,7 +120,7 @@ stevedore==5.1.0
 testpath==0.6.0
 toml==0.10.2
 tornado==6.3.3
-tox==3.13.2
+tox==4.10.0
 tqdm==4.34.0
 traitlets==4.3.2
 twine==1.13.0
