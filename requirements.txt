@@ -97,7 +97,7 @@ pywinpty==2.0.11
 PyYAML==6.0.1
 pyzmq==25.1.1
 qtconsole==5.4.4
-readme-renderer==24.0
+readme-renderer==41.0
 requests==2.22.0
 requests-toolbelt==0.9.1
 scikit-learn==0.21.3
