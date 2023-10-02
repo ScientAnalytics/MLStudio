@@ -83,7 +83,7 @@ pycodestyle==2.11.0
 pycparser==2.21
 pyflakes==3.1.0
 Pygments==2.16.1
-pylint==2.3.1
+pylint==2.17.7
 pyparsing==2.4.2
 pyrsistent==0.15.4
 pyOpenSSL==19.0.0
