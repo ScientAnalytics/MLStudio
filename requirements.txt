@@ -21,7 +21,7 @@ colorama==0.4.6
 cookiecutter==2.4.0
 coverage==7.3.2
 cryptography==41.0.4
-cycler==0.10.0
+cycler==0.12.1
 decorator==4.4.0
 defusedxml==0.6.0
 doc8==0.8.0
