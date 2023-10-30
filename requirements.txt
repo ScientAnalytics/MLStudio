@@ -18,7 +18,7 @@ chardet==5.2.0
 Click==8.1.7
 codecov==2.1.13
 colorama==0.4.6
-cookiecutter==1.6.0
+cookiecutter==2.4.0
 coverage==4.5.4
 cryptography==2.7
 cycler==0.10.0
