@@ -96,7 +96,7 @@ pytz==2023.3.post1
 pywinpty==2.0.12
 PyYAML==6.0.1
 pyzmq==25.1.1
-qtconsole==4.5.3
+qtconsole==5.5.0
 readme-renderer==24.0
 requests==2.22.0
 requests-toolbelt==0.9.1
