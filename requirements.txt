@@ -123,7 +123,7 @@ tornado==6.4
 tox==4.11.4
 tqdm==4.66.1
 traitlets==5.14.0
-twine==1.13.0
+twine==4.0.2
 urllib3==1.25.3
 virtualenv==16.7.3
 watchdog==0.9.0
