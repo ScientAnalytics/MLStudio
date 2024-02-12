@@ -7,7 +7,7 @@ astroid==3.0.3
 atomicwrites==1.4.1
 attrs==23.2.0
 autopep8==2.0.4
-Babel==2.7.0
+Babel==2.14.0
 backcall==0.1.0
 binaryornot==0.4.4
 bleach==3.1.0
