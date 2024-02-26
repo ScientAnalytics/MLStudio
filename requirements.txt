@@ -63,7 +63,7 @@ notebook==7.1.0
 numpy==1.26.4
 packaging==23.2
 pandas==2.2.1
-pandocfilters==1.4.2
+pandocfilters==1.5.1
 parso==0.5.1
 pathtools==0.1.2
 patsy==0.5.1
