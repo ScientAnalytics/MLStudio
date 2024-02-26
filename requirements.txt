@@ -64,7 +64,7 @@ numpy==1.26.4
 packaging==23.2
 pandas==2.2.1
 pandocfilters==1.5.1
-parso==0.5.1
+parso==0.8.3
 pathtools==0.1.2
 patsy==0.5.1
 pbr==5.4.2
