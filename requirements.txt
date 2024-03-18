@@ -49,7 +49,7 @@ jupyter-client==8.6.1
 jupyter-console==6.6.3
 jupyter-core==5.7.2
 kiwisolver==1.4.5
-lazy-object-proxy==1.4.1
+lazy-object-proxy==1.10.0
 MarkupSafe==1.1.1
 matplotlib==3.0.3
 mccabe==0.6.1
