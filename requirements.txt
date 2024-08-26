@@ -86,7 +86,7 @@ Pygments==2.18.0
 pylint==3.2.6
 pyparsing==3.1.4
 pyrsistent==0.20.0
-pyOpenSSL==19.0.0
+pyOpenSSL==24.2.1
 PySocks==1.7.0
 pytest==5.1.0
 pytest-cov==2.7.1
