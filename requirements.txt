@@ -61,7 +61,7 @@ nbconvert==7.16.4
 nbformat==5.10.4
 notebook==7.2.2
 numpy==2.1.0
-packaging==19.1
+packaging==24.1
 pandas==0.25.0
 pandocfilters==1.4.2
 parso==0.5.1
