@@ -95,7 +95,7 @@ python-dateutil==2.9.0.post0
 pytz==2024.2
 pywinpty==2.0.14
 PyYAML==6.0.2
-pyzmq==18.1.0
+pyzmq==26.2.0
 qtconsole==4.5.3
 readme-renderer==24.0
 requests==2.22.0
